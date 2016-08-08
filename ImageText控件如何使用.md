@@ -1,0 +1,29 @@
+### ImageText控件
+
+### 作用
+- 上传附件
+- 展示图片
+- 拍照
+
+### 样式
+
+![流程1](img/ImageText控件如何使用/流程1.png)
+![流程2](img/ImageText控件如何使用/流程2.png)
+![流程3](img/ImageText控件如何使用/流程3.png)
+
+
+### Yigo如何配置
+
+#### Yigo的上传控件一般是这样的
+
+![Yigo上传控件1](img/ImageText控件如何使用/1.png)
+![Yigo上传控件2](img/ImageText控件如何使用/2.png)
+
+与Yigo的上传控件没有任何关系
+
+与Yigo的上传控件没有任何关系
+
+与Yigo的上传控件没有任何关系
+
+### 页面如何配置
+
