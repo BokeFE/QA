@@ -7,9 +7,9 @@
 
 ### 样式
 
-![流程1](img/ImageText控件如何使用/流程1.png)
-![流程2](img/ImageText控件如何使用/流程2.png)
-![流程3](img/ImageText控件如何使用/流程3.png)
+<img src="img/ImageText控件如何使用/流程1.png" width="200px">
+<img src="img/ImageText控件如何使用/流程2.png" width="200px">
+<img src="img/ImageText控件如何使用/流程3.png" width="200px">
 
 
 ### Yigo如何配置
