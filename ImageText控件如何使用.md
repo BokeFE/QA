@@ -6,18 +6,17 @@
 - 拍照
 
 ### 样式
-
-<img src="img/ImageText控件如何使用/流程1.png" width="200px">
-<img src="img/ImageText控件如何使用/流程2.png" width="200px">
-<img src="img/ImageText控件如何使用/流程3.png" width="200px">
-
+流程1             |  流程2             |  流程3
+:-------------------------:|:-------------------------:|:-------------------------:
+![Yigo上传控件1](img/ImageText控件如何使用/流程1.png)|![Yigo上传控件1](img/ImageText控件如何使用/流程2.png)|![Yigo上传控件1](img/ImageText控件如何使用/流程3.png)
 
 ### Yigo如何配置
 
 #### Yigo的上传控件一般是这样的
 
-![Yigo上传控件1](img/ImageText控件如何使用/1.png)
-![Yigo上传控件2](img/ImageText控件如何使用/2.png)
+错误的上传组件1             |  错误的上传组件2
+:-------------------------:|:-------------------------:
+![Yigo上传控件1](img/ImageText控件如何使用/1.png)|![Yigo上传控件1](img/ImageText控件如何使用/2.png)
 
 与Yigo的上传控件没有任何关系
 
