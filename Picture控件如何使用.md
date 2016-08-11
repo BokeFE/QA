@@ -1,4 +1,4 @@
-### ImageText控件
+### Picture控件
 
 ### 作用
 - 上传附件
