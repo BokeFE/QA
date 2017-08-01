@@ -25,6 +25,9 @@ const logger = fs.createWriteStream(dst, {
 
 logger.write(`# ${title} \n`);
 logger.write(`\n`);
+logger.write(`## TODO\n`);
+logger.write(`\n`);
+logger.write(`## 记录\n`);
 logger.write('时间 | 事件 \n');
 logger.write('------------ | ------------- \n');
 const minuteInterval = 15;
