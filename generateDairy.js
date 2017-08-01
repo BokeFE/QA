@@ -39,7 +39,7 @@ for (let hour = minHour; hour <= maxHour; hour++) {
         const hourStart = formatDate(hour);
 
         let minuteEnd = minute + minuteInterval;
-        let hourEnd = minuteEnd >= (60 - minuteInterval) ? (hour + 1) : hour;
+        let hourEnd = minuteEnd === 60 ? (hour + 1) : hour;
         hourEnd = formatDate(hourEnd);
         minuteEnd = formatDate(minuteEnd);
         logger.write(`${hourStart}:${minuteStart} - ${hourEnd}:${minuteEnd} | \n`);
