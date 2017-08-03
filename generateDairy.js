@@ -43,6 +43,6 @@ for (let hour = minHour; hour <= maxHour; hour++) {
         hourEnd = formatDate(hourEnd);
         minuteEnd = formatDate(minuteEnd);
         logger.write(`${hourStart}:${minuteStart} - ${hourEnd}:${minuteEnd} | \n`);
-        minute += 15;
+        minute += minuteInterval;
     }
 }
